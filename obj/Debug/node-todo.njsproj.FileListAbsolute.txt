@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\node-todo\obj\Debug\node-todo.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\node-todo\bin\Microsoft.NodejsTools.WebRole.dll

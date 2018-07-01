@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "node-todo", "node-todo.njsproj", "{9651A520-9667-40C4-ADF7-F50E5F4E1517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9651A520-9667-40C4-ADF7-F50E5F4E1517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9651A520-9667-40C4-ADF7-F50E5F4E1517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9651A520-9667-40C4-ADF7-F50E5F4E1517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9651A520-9667-40C4-ADF7-F50E5F4E1517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317D5D7B-D930-4C32-8CCE-5FB874BE7D7F}
+	EndGlobalSection
+EndGlobal
